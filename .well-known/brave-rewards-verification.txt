@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: dominickhera.com
+Token: 31cc9a4bff25f3c5d1cc1cd05c50328bf99c1e32a8b8a4a412b1457acdc95203
